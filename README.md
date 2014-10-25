@@ -3,6 +3,8 @@ The Preamp
 
 The aim of this project is to create a yet high fidelity stereo pre-amplifier. It is designed to provide comfort features such as IR remote control and an LCD display without compromising the audio quality.
 
+![Preamp front](https://github.com/nevers/preamp/raw/master/pictures/preamp-front.png "Preamp front")
+
 The preamp exhibits the following features:
 * Six independenly selectable stereo inputs.
 * Two low noise and low distortion identical stereo outputs.
@@ -16,4 +18,5 @@ The main audio path is build from high-end components such as the OPA2134, an ul
 
 All code is available in the software folder. All schematics, PCB design is available in PDF format in the hardware.
 If you need the eagle schematics or board PM me.
+
 
