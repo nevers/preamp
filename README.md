@@ -18,6 +18,6 @@ All electronics and hardware, including PCB and eclosure is costum design. At th
 
 The main audio path is build from high-end components such as the OPA2134, an ultra-low distortion, low noise operational amplifier. More specifically, the OPA2134 is used at the input lines of the preamp. It's high impedance input stage draws as little as 5pA (excluding the filtering stage in front of it), providing superior sound capturing for the next stage. The audio is then sent to the PGA2311, a high-quality volume controller capable of completely muting the audio and aplifying it as much as +31.5dB. It is controlled by the microcontroller using SPI in steps of 0.5dB. It also includes a zero crossing detection, allowing noise free level transitions. The final component in the audio path is the NE5532, a capable operational amplifier, selected for its excellent audio performance and its high output current, which is indespensible for driving the outputs of the preamp.
 
-All code is available in the software folder. All schematics, PCB design is available in PDF format in the hardware.
+All code is available in the software folder. All schematicsm PCB design and enclosure design is available in PDF format in the hardware folder.
 
 
