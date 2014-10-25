@@ -4,7 +4,7 @@ The Preamp
 The aim of this project is to create a yet high fidelity stereo pre-amplifier. It is designed to provide comfort features such as IR remote control and an LCD display without compromising the audio quality.
 
 ![Preamp front](https://github.com/nevers/preamp/raw/master/pictures/preamp-front.png "Preamp front")
-![Preamp inner](https://github.com/nevers/preamp/raw/master/pictures/preamp-inner.png "Preamp inner")
+![Preamp inner](https://github.com/nevers/preamp/raw/master/pictures/preamp-inner.jpg "Preamp inner")
 
 The preamp exhibits the following features:
 * Six independenly selectable stereo inputs.
